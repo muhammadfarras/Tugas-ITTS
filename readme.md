@@ -1,10 +1,22 @@
-# Akhlak
+# Akhlaq
 
 
 بِسْمِ ٱللَّٰهِ
 
+السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-## Intermezo
+Nama | NIM
+------------ | -------------
+Muhammad Farchan Setyawan | xxxxxxxxxx
+Muhammad Farras Ma'ruf | 1002210062
+Muhammad Salim | xxxxxxxxxx
+Raden Ahmad Fauzi | xxxxxxxxxx
+Ria Puji Astuti | xxxxxxxxxx
+Rita Nurmailina | xxxxxxxxxx
+Sartika Utami | xxxxxxxxxx
+
+
+## Pendahuluan
 Setiap ilmu yang ada didunia ini pasti memliki sumber atau buku pedoman. Tidak terkecuali terhadap agama yang Allah ridhai, yaitu islam. Dalam mempelajarinya kita harus merujuk pada pedoman yang benar tersebut, yaitu Al Quran dan As Sunnah (Hadist Rasulullah _Shallallahu Alaihi Wassalam_).
 
 Berbicara tentang akhlak, Allah _Azza Wa Jalla_ tidaklah membiarkan kita tanpa adanya pentujuk bagaimana cara berakhlak yang baik. Allah mengutus Rasulnya _Shallallahu Alaihi Wassalam_ sebagai contoh yang harus ditiru dalam beragama dan berakhlak khususnya.
@@ -46,16 +58,17 @@ Rasulullah SHallallahu Aialihi Wassallam Bersabda
 
 Akhlaq cangkupannya sangat luas, sejalan dengan mata kuliah **Pendidikan Agama Islam**, kami dari kelompok **enam** akan membahas
 1. [Akhlaq kepada Allah](#Akhlaq-kepada-Allah)
-2. Akhlaq Kepada Rasulullah Shallallahu Alaihi Wassalam
-3. Akhlaq kepada Al Quran
-4. Akhlaq kepada makhluknya
-5. Etika komunikasi dalam islam
-6. Sikap ummat islam terhadap alat komunkasi dan pemanfaatannya
-7. Kejahatan siber salah satu pelanggaran etikda dan norma
+2. [Akhlaq Kepada Rasulullah Shallallahu Alaihi Wassalam](#Akhlaq-Kepada-Rasulullah-Shallallahu-Alaihi-Wassalam)
+3. [Akhlaq kepada Al Quran](#Akhlaq-kepada-Al-Quran)
+4. [Akhlaq kepada makhluknya](#Akhlaq-kepada-makhluknya)
+5. [Etika komunikasi dalam islam](#Etika-komunikasi-dalam-islam)
+6. [Sikap ummat islam terhadap alat komunkasi dan pemanfaatannya](#Sikap-ummat-islam-terhadap-alat-komunkasi-dan-pemanfaatannya)
+7. [Kejahatan siber salah satu pelanggaran etikda dan norma](#Kejahatan-siber-salah-satu-pelanggaran-etikda-dan-norma)
 
 ___
 
 ## Akhlaq Kepada Allah
+
 ## Akhlaq Kepada Rasulullah Shallallahu Alaihi Wassalam
 ## Akhlaq kepada Al Quran
 ## Akhlaq kepada makhluknya
